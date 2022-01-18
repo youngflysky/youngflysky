@@ -58,6 +58,6 @@
 
 
 
-<p align="center">⭐️ My Own Blog : <a href="https://github.com/youngflysky/">Youngflysky</a>
+<p align="center">⭐️ My Own Blog : <a href="www.youngflysky.fun">Youngflysky</a>
 
 </p>

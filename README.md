@@ -56,6 +56,8 @@
 
 <h2 align="center">Repositories</h2>
 
-    ⭐️ From <a href="https://github.com/youngflysky/">youngflysky</a>
+
+
+<p align="center">⭐️ My Own Blog : <a href="https://github.com/youngflysky/">Youngflysky</a>
 
 </p>

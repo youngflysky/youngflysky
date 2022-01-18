@@ -57,5 +57,3 @@
 <h2 align="center">Repositories</h2>
 
 
-
-​                                                                                               **[My Own Blog ](www.youngflysky.fun)**

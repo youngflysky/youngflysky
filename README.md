@@ -1,4 +1,4 @@
-<h3 align='center' ><font size='70'>Hello there, I'm YoungFlySky!👋</h3>
+<h3 align='center' ><font size='70'>Hello, I'm YoungflySky Lee!👋</h3>
 
 
 
@@ -10,18 +10,23 @@
   <br>
   🎓 I'm learing CS by myself since 2021.11.
   <br>
-  💻 码农是口青春饭，年轻不干啥时干？
-  <br>
   🔬 I’m currently studying on Sanghai
   <br>
+    📫 Welcome to <a href="https://youngflysky.fun/" title="Issues">My Blog</a>
+ <!---
+  <br>
   📚 正在考研，考不上要回家种地了
- <!--- 
+  <br>
+  💻 码农是口青春饭，年轻不干啥时干？
   <br>
   💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 -->
 </p>
+
+
+
 
 
 <hr>
@@ -56,4 +61,4 @@
 
 <h2 align="center">Repositories</h2>
 
-
+ 

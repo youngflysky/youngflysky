@@ -55,7 +55,7 @@
 
 
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=youngflysky&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/youngflysky?tab=repositories" title="Go to Repositories"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=youngflysky&show_icons=true&theme=gotham"></a>
 
 <hr>
 

@@ -34,8 +34,8 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/youngflysky/youngflysky/blob/main/svg/C.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/youngflysky/youngflysky/blob/main/svg/CPP.svg"></code>
     <!--
   <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>

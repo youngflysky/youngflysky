@@ -12,7 +12,7 @@
   <br>
   🔬 I’m currently studying on Sanghai
   <br>
-    📫 Welcome to <a href="https://youngflysky.fun/" title="YFS Blog">My Blog</a>
+    📫  <a href="https://youngflysky.fun/" title="YFS Blog">Welcome to My Blog</a>
  <!---
   <br>
   📚 正在考研，考不上要回家种地了
